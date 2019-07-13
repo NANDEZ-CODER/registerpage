@@ -1,0 +1,59 @@
+body
+{
+margin: 0;
+padding: 0;
+font-size: 16px;
+font-family: sans-serif;
+background-color: lightskyblue;
+background-position: center;
+background-size: cover;
+font-weight: 300;
+
+}
+.login-box
+{
+text-align: center;
+position: relative;
+margin: 10% auto;
+height: 500px;
+width: 350px;
+background: rgba(253, 251, 251, 0.897);
+box-shadow: 0 2px 4px rgba(0,0,0,0.8);
+}
+
+.left-box
+{
+position: absolute;
+top: 0;
+left: 0;
+box-sizing: border-box;
+/* padding: 100px; */
+width: 100%;
+height: 400px;
+
+}
+h1
+{
+margin-bottom: 10px;
+font-size: 28px;
+color: rgb(17, 17, 17);
+
+}
+.Submit-btn
+{
+    margin-bottom: 50px;
+    width: 300;
+    height: 32px;
+    background: #0451aa;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.2s;
+}
+img
+ {
+width: 60px;
+
+}
